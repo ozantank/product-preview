@@ -1,6 +1,6 @@
 # Product Preview | Card Component
 
-This is a fully responsive product preview card component!
+This is responsive product preview card component!
 
 ## Table of contents
 
